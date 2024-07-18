@@ -8,7 +8,9 @@
 
 
 ### 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23323330.svg?style=flat&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%23323330.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23323330.svg?style=flat&logo=figma&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23323330.svg?style=flat&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
+<br/> ![Unity3d](https://img.shields.io/badge/Unity3d-%23323330.svg?style=flat&logo=unity&logoColor=white) ![React](https://img.shields.io/badge/react-%23323330.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23323330.svg?style=flat&logo=figma&logoColor=white)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
