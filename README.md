@@ -4,7 +4,7 @@
 9+ years of experience in software development. Specialize in XR, mobile, and web development. Passionate about building effective solutions and supporting team success.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dimatidev) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23F24E1E.svg?logo=unity&logoColor=white)]([https://linkedin.com/in/dimatidev](https://dimatidev.github.io/)) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23F24E1E.svg?logo=unity&logoColor=white)](https://dimatidev.github.io)
 
 
 ### 💻 Tech Stack:
