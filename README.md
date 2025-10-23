@@ -1,15 +1,30 @@
-## Hi there 👋
-
 # About Me:
-10+ years of experience in software development. Specialize in XR, mobile, and web development. Passionate about building effective solutions and supporting team success.
+I’m a full-stack and backend engineer with 10+ years of experience building reliable, scalable, and AI-driven systems. I’ve led teams, designed automation platforms, and developed tools that make complex systems easier to use and maintain.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dimatidev) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23F24E1E.svg?logo=unity&logoColor=white)](https://dimatidev.github.io)
+My work spans AI agents, backend infrastructure, and frontends. Some areas I work with include:
+
+- AI agents using LangGraph and ADK
+- RAG systems with vector databases and knowledge graphs
+- MCP servers and automation platforms
+- CI/CD pipelines for linting, building, testing, and deploying to AWS
+- IaC using Terraform
+- Monitoring systems and observability setups
+- API development with REST and GraphQL
+- Microservices and ETL pipelines
+- Database backups and data management
+- Auth services using OAuth
+- 3rd-party integrations and security practices (XSS, CSRF, etc.)
+
+I enjoy building systems that scale, perform well, and make developers’ lives easier.
+
+Feel free to reach out. I’d love to connect or hear about new opportunities.
 
 
-### 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23323330.svg?style=flat&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeSctipt](https://img.shields.io/badge/typescript-%23323330.svg?style=flat&logo=typescript&logoColor=%blue)
-<br/> ![Unity3d](https://img.shields.io/badge/Unity3d-%23323330.svg?style=flat&logo=unity&logoColor=white) ![React](https://img.shields.io/badge/react-%23323330.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23323330.svg?style=flat&logo=figma&logoColor=white)
+## 💻 Tech Stack:
+- Python, C#, TypeScript, JavaScript, Go, Java, C++, Terraform
+- Langgraph, Langchain, Ollama, MCP, RAG, CoT, ADK, FAISS
+- AWS, Docker, Node.js, Express, FastAPI, REST, GraphQL, mySQL, mongoDB
+- React, Next.js, Unity3d, Jest, Cypress
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
